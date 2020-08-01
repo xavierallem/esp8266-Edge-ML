@@ -1,14 +1,13 @@
-## esp8266-Edge-ML
-'''This project is to bring machine leaning to embedded systems such as esp266 and contribute to edge ML. 
+# esp8266-Edge-ML
 
-The work is mostly complete with constraints in the test enivronment hence bugs maybe introduced.'''
+### This project is to bring machine leaning to embedded systems such as esp266 and contribute to edge ML. The work is mostly complete with constraints in the test enivronment hence bugs maybe introduced.
 
 
 >First we have to install MicroPython in our esp8266 board
 
 >>Source - [Link](https://randomnerdtutorials.com/getting-started-micropython-esp32-esp8266/)
 
-Abstract:- 
+### Abstract:- 
 This project is aimed to bring machine learning to embedded systems known as edge machine learning
 hence we use machine learning to predict the temperature of an hour during the day.
 
