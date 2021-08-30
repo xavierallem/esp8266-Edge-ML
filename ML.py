@@ -14,7 +14,7 @@ def cal_variance(readings):
    variance = sum(mean_difference_squared_readings)
    return variance / float(len(readings) - 1)  
   
-from math import pow
+
 
 def cal_covariance(readings_1, readings_2):
     
